@@ -14,7 +14,6 @@ hello.py
 
 ```python
 print("Hello World!")
-print("Hello World!")
 ```
 
 こんな感じで表示できればOK.
@@ -40,19 +39,3 @@ Tips
 こんな感じで表示できればOK.
 
 <img width="578" alt="スクリーンショット 2023-04-20 15 51 59" src="https://user-images.githubusercontent.com/106364533/233284231-97cccbe7-46d1-47de-a2ab-49458ed4caf1.png">
-
-## 02.04
-
-1行目のprint文のみをコミットして, そのコミットの内容を表示してください.  
-※ VSCodeなどのエディター機能を使うことを推奨します
-
-こんな感じで表示できればOK.
-
-<img width="879" alt="スクリーンショット 2023-04-20 15 58 42" src="https://user-images.githubusercontent.com/106364533/233285691-4b110a7c-0961-449d-852f-2ed1189ca24d.png">
-
-## 02.05
-
-2行目のprint文を前のコミットに追加して, 前のコミット内容を表示してください.  
-こんな感じで表示できればOK.
-
-<img width="857" alt="スクリーンショット 2023-04-20 15 59 49" src="https://user-images.githubusercontent.com/106364533/233285938-e97b671a-2a77-4f56-aa88-ce039bf330eb.png">
