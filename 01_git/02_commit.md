@@ -39,3 +39,5 @@ Tips
 こんな感じで表示できればOK.
 
 <img width="578" alt="スクリーンショット 2023-04-20 15 51 59" src="https://user-images.githubusercontent.com/106364533/233284231-97cccbe7-46d1-47de-a2ab-49458ed4caf1.png">
+
+スクショが撮れたら再度コミットしてください。
