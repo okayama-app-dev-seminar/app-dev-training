@@ -9,7 +9,24 @@ Tips
 ## 03.01
 
 mainブランチに戻り, そこからgit-conflict-practiceブランチを切って移動してください.  
-そこで先ほど作業したブランチをマージすることでコンフリクトが発生するようなプログラムを書いコミットしてください.  
+そこで先ほど作業したブランチ(git-practice)をマージすることでコンフリクトが発生するようなプログラムを書いコミットしてください.  
+つまりgit-conflict-practiceブランチに、git-practiceで変更した箇所に別の変更を加える。
+例：
+
+### git-practiceブランチ
+
+hello.py
+
+```python
+print("Hello World!")
+```
+
+### git-conflict-practiceブランチ
+
+```python
+print("Hello World!!!!!!!!")
+```
+
 その後マージを行いコンフリクトが発生することを確認してください.
 こんな感じで表示できればOK.
 
