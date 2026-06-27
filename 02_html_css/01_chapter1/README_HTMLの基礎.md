@@ -1,4 +1,4 @@
-# chapter1 HTMLの基礎
+# Chapter1 HTMLの基礎
 
 このチャプターでは、HTMLの基本について学習します。
 
